@@ -26,13 +26,4 @@
 
 This uses [Nest](https://github.com/nestjs/nest) framework and TypeScript as the back portion of the site.
 
-## Running the app
-
-```bash
-
-I used this command to see if everything is in working order.
-
-# watch mode
-$ npm run start:dev
-
 
