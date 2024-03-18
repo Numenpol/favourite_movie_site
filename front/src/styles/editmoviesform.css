@@ -1,0 +1,37 @@
+#titleEditMovies, #directorEditMovies, #dateEditMovies{
+    background-color: bisque;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+
+#directorEditMovies{
+    margin-right: 5px;
+}
+
+.inputBarTitleEditMovies, .inputBarDirectorEditMovies, .inputBarDateEditMovies{
+    margin-left: 5px;
+}
+
+.inputBarDateEditMovies{
+    margin-bottom: 5px;
+}
+
+#titleEditMovies:hover, #directorEditMovies:hover, #dateEditMovies:hover{
+    background-color:rgb(253, 214, 166);
+}
+
+.submitEditMovies{
+    border: 2px solid black;
+    background-color: bisque;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 15px;
+    margin-bottom: 5px;
+  }
+
+  .submitEditMovies:hover{
+    cursor: pointer;
+    background-color:rgb(253, 214, 166);
+  }

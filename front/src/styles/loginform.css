@@ -1,0 +1,64 @@
+.formLogin{
+    border: 2px solid black;
+    background-color: rgb(201, 159, 109);
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+}
+.inputBarEmailLogin, .inputBarPasswordLogin{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#loginEmail, #loginPassword{
+    background-color: bisque;
+    border: 2px solid black;
+} 
+
+#loginEmail:hover, #loginPassword:hover{
+    background-color:rgb(253, 214, 166);
+} 
+
+.submitLogin{
+    border: 2px solid black;
+    background-color:bisque;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 50px;
+    margin-left: 35%;
+    padding: 10px;
+}
+
+.submitLogin:hover{
+    cursor: pointer;
+    background-color:rgb(253, 214, 166);
+}
+
+.errorLoginform{
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-weight: 700;
+    font-size: 25px;
+}
+.signUpButton{
+    margin-left: 70px;
+    border: 2px solid black;
+    background-color: rgb(201, 159, 109);
+    color: white;
+    font-weight: 700;
+    padding: 4px;
+    margin-top: 10px;
+}
+.signUpButton:hover{
+    cursor: pointer;
+    background-color: rgb(182, 131, 68);
+}
+
+.formBoxLogin{
+    margin-left: 45%;
+}

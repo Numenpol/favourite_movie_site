@@ -1,0 +1,12 @@
+.header{
+    padding: 1px;
+    text-align: center;
+    background-color: rgb(201, 159, 109);
+    color: white;
+    font-size: 26px;
+    font-weight: 700;
+  }
+  
+  .header p{
+    margin: 8px;
+  }

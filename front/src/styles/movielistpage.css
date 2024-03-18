@@ -1,0 +1,73 @@
+.movieListTextFilter, .movieListSelectFilter, .movielist{
+    border: 2px solid black;
+    background-color: rgb(201, 159, 109);
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .movieListSelectFilter{
+    margin-left: 10px;
+  }
+  
+  .movieListTextFilter:hover, .movieListSelectFilter:hover{
+    background-color: rgb(206, 173, 133);
+  }
+  
+  .movieListSelectFilter:hover{
+    cursor: pointer;
+  }
+  
+  .searchAndSelectFilter{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  .movielist{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+  }
+
+  .movielist p, h2{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+
+  .errorMovieList{
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-weight: 700;
+    font-size: 25px;
+  }
+
+  .movieDeleteButton{
+    border: 2px solid black;
+    background-color: bisque;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-right: 15px;
+    margin-top: 10px;
+  }
+
+  .movieDeleteButton:hover{
+    cursor: pointer;
+    background-color:rgb(253, 214, 166);
+  }
+
+  .movieEditButton{
+    border: 2px solid black;
+    background-color: bisque;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 15px;
+  }
+
+  .movieEditButton:hover{
+    cursor: pointer;
+    background-color:rgb(253, 214, 166);
+  }
