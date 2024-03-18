@@ -8,7 +8,7 @@
 
 ## General info
 
-This project is a good learning experience for me.
+This project was a good learning experience for me.
 
 ## Technologies
 
