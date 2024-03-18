@@ -31,9 +31,8 @@ This uses [Nest](https://github.com/nestjs/nest) framework and TypeScript as the
 ```bash
 
 I used this command to see if everything is in working order.
+
 # watch mode
 $ npm run start:dev
 
-## License
 
-Nest is [MIT licensed](LICENSE).
